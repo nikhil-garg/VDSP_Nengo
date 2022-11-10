@@ -1,0 +1,5 @@
+{
+	"g_max": {"_type":"uniform", "_value": [0.0011,0.19047]},
+	"tau_in": {"_type":"uniform", "_value": [0.01,0.5]},
+	"tau_out": {"_type":"uniform", "_value": [0.01,0.5]}
+}
