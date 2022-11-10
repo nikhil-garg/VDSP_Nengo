@@ -1,0 +1,332 @@
+Seeds:
+
+50
+100
+2011
+420
+1998
+
+sbatch slrum_trial_baseline_noise_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_noise_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_noise_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_noise_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_noise_v5.sh --log_file_path $OUTDIR
+
+
+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
+
+
+cd ~/project/out
+git add --all
+git commit -m updates
+git push
+
+
+sbatch slrum_trial_stdp_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v11.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v12.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v13.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v14.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v15.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v16.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v17.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v18.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v19.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v20.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v21.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v22.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v23.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v24.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v25.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v26.sh --log_file_path $OUTDIR
+sbatch slrum_trial_stdp_v27.sh --log_file_path $OUTDIR
+
+
+git pull
+sbatch slrum_trial_baseline_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v11.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v12.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v13.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v14.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v15.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v16.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v17.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v18.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v19.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v20.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v21.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v22.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v23.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v24.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v25.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v26.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v27.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v28.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_baseline_v29.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v30.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v31.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v32.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v33.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v34.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v35.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v36.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v37.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v38.sh --log_file_path $OUTDIR
+sbatch slrum_trial_baseline_v39.sh --log_file_path $OUTDIR
+
+
+
+scancel 8840851
+scancel 8840865
+scancel 8840821
+scancel 8840826
+scancel 8840829
+scancel 8840837
+scancel 8840842
+scancel 8840844
+scancel 8840846
+scancel 8840850
+
+
+scancel 7275125
+scancel 7275126
+scancel 7275127
+
+
+
+
+
+
+
+
+
+sbatch slrum_trial_th_var_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_th_var_v10.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_dw_var_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_dw_var_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_dw_var_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_dw_var_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_dw_var_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_dw_var_v6.sh --log_file_path $OUTDIR
+
+git pull
+sbatch slrum_trial_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v11.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v12.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v13.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v14.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v15.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v16.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v17.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v18.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v19.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v20.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v21.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v22.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v23.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v24.sh --log_file_path $OUTDIR
+sbatch slrum_trial_v25.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_amp_var_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v9.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_g_var_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_g_var_v10.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_amp_var_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_amp_var_v9.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_tio2_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v7.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_tio2_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v11.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v12.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v13.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v14.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v15.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_tio2_v16.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v17.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v18.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v19.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v20.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v21.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v22.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_v23.sh --log_file_path $OUTDIR
+
+sbatch fslrum_trial_tio2_v1.sh --log_file_path $OUTDIR
+
+sbatch fslrum_trial_tio2_v2.sh --log_file_path $OUTDIR
+
+git add --all
+git commit -m updates
+git push
+
+mongod --dbpath ~/Desktop/mongodata/
+
+
+
+sbatch slrum_trial_tio2_var_amp_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_g_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_g_v2.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_tio2_var_th_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v10.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v4.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v5.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v6.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v7.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v8.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v9.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v10.sh --log_file_path $OUTDIR
+
+
+sbatch slrum_trial_tio2_var_th_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_th_v3.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_tio2_var_amp_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v3.sh --log_file_path $OUTDIR
+
+sbatch slrum_trial_tio2_var_amp_th_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v2.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v3.sh --log_file_path $OUTDIR
+
+
+
+
+
+sbatch slrum_trial_tio2_var_th_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_v1.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_amp_th_v1.sh --log_file_path $OUTDIR
+
+
+
+sbatch slrum_trial_tio2_var_g_v3.sh --log_file_path $OUTDIR
+sbatch slrum_trial_tio2_var_g_v4.sh --log_file_path $OUTDIR
+
+
+
+
+sudo docker run --rm -d -p 8050:8050 -p 27017:27017 -v ~/Desktop/mongodata:/home/data/db  helbez/vs2n:0.35
+
+
+
+
+image_test_filtered = (image_test_filtered/255-0.1308)/0.3088
+image_train_filtered = (image_train_filtered/255-0.1308)/0.3088
+image_test_filtered = 255*(image_test_filtered-image_test_filtered.min())/(image_test_filtered.max()-image_test_filtered.min())
+image_train_filtered = 255*(image_train_filtered-image_train_filtered.min())/(image_train_filtered.max()-image_train_filtered.min())
+
+
+
+seed_1 = seed[index_1]
+seed_2 = seed[index_2]
+seed_3 = seed[index_3]
+
+
+
+
+scancel 14624626
+scancel 14624628
+scancel 14624630
+scancel 14624632
+scancel 14624634
+scancel 14624636
+scancel 14624638
+scancel 14624640
+scancel 14624643
+scancel 14624645
+scancel 14624647
+scancel 14624654
